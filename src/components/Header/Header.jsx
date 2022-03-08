@@ -5,7 +5,9 @@ const Header = () => {
   return (
     <AppBar position="sticky">
       <Toolbar sx={{ background: "#2b6777" }}>
-        <Typography variant="h4">Notaria de San Ramon</Typography>
+        <Typography variant="h4" sx={{ "font-family": "'Cinzel',serif" }}>
+          Notaria de San Ramon
+        </Typography>
       </Toolbar>
     </AppBar>
   );

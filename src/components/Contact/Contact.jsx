@@ -8,7 +8,7 @@ export const Contact = () => {
     <Paper
       elevation={12}
       sx={{
-        background: "#2b6777",
+        background: "#368195",
         color: "#ffffff",
         width: "100%",
         margin: "10px",
@@ -22,12 +22,12 @@ export const Contact = () => {
           margin: "10px 0",
         }}
       >
-        <ContactPhoneIcon sx={{ margin: "0 2px 0 0" }} />
-        <Typography variant="body2" sx={{ margin: "0 10px 0 0" }}>
+        <ContactPhoneIcon sx={{ margin: "0 10px 0 0" }} />
+        <Typography variant="h6" sx={{ margin: "0 10px 0 0" }}>
           Número telefonico:{" "}
         </Typography>
 
-        <Typography variant="body2">2 2615 0414</Typography>
+        <Typography variant="h6">2 2615 0414</Typography>
       </Box>
       <Box
         sx={{
@@ -37,11 +37,11 @@ export const Contact = () => {
           margin: "10px 10px",
         }}
       >
-        <LocationOnIcon sx={{ margin: "0 2px 0 0" }} />
-        <Typography variant="body2" sx={{ margin: "0 10px 0 0" }}>
+        <LocationOnIcon sx={{ margin: "0 10px 0 0" }} />
+        <Typography variant="h6" sx={{ margin: "0 10px 0 0" }}>
           Direccion:{" "}
         </Typography>
-        <Typography variant="body2">
+        <Typography variant="h6">
           Av. Santa Rosa, Comuna de San Ramon
         </Typography>
       </Box>

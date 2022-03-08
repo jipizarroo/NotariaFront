@@ -1,5 +1,5 @@
 import * as React from "react";
-import { Paper, Typography, Box } from "@mui/material";
+import { Paper, Typography } from "@mui/material";
 import NewReleasesIcon from "@mui/icons-material/NewReleases";
 
 export const UnderConstruction = () => {

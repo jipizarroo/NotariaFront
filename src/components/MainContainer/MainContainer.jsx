@@ -7,12 +7,12 @@ import { TimeSchedule } from "../TimeSchedule/TimeSchedule";
 
 export default function MainContainer() {
   return (
-    <Grid container spacing={0} direction="column">
+    <Grid container direction="column">
       <Grid item>
         <Header />
       </Grid>
-      <Grid item container>
-        <Grid item xs={0} sm={2} sx={{ background: "#c8d8e4" }}></Grid>
+      <Grid xs={10} item container>
+        <Grid item xs={0} sm={2} sx={{ background: "#368195" }}></Grid>
         <Grid
           container
           item
@@ -20,13 +20,16 @@ export default function MainContainer() {
           justifyContent="center"
           alignItems="stretch"
           sx={{ background: "#ffffff" }}
-          sm={8}
         >
           <UnderConstruction />
           <Contact />
           <TimeSchedule />
+          <UnderConstruction />
         </Grid>
-        <Grid item sm={2} sx={{ background: "#c8d8e4" }}></Grid>
+        <Grid item sm={2} sx={{ background: "#368195" }}></Grid>
+      </Grid>
+      <Grid item>
+        <Header />
       </Grid>
     </Grid>
   );
