@@ -41,7 +41,8 @@ export const TimeSchedule = () => {
   return (
     <TableContainer
       component={Paper}
-      sx={{ margin: "10px", maxWidth: "400px" }}
+      elevation={12}
+      sx={{ margin: "20px auto ", maxWidth: "400px" }}
     >
       <Table aria-label="simple table">
         <TableHead>

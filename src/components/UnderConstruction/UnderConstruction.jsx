@@ -5,13 +5,13 @@ import NewReleasesIcon from "@mui/icons-material/NewReleases";
 export const UnderConstruction = () => {
   return (
     <Paper
+      elevation={12}
       sx={{
         background: "#2b6777",
         display: "flex",
         justifyContent: "space-around",
         alignItems: "center",
         color: "#ffffff",
-        width: "100%",
         margin: "10px",
       }}
     >

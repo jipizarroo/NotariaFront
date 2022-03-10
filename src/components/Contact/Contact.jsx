@@ -10,8 +10,7 @@ export const Contact = () => {
       sx={{
         background: "#368195",
         color: "#ffffff",
-        width: "100%",
-        margin: "10px",
+        margin: "20px 10px",
       }}
     >
       <Box
