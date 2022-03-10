@@ -4,7 +4,6 @@ import Header from "../Header/Header.jsx";
 import { UnderConstruction } from "../UnderConstruction/UnderConstruction.jsx";
 import { Contact } from "../Contact/Contact.jsx";
 import { TimeSchedule } from "../TimeSchedule/TimeSchedule";
-import { Footer } from "../Footer/Footer.jsx";
 
 export default function MainContainer() {
   const screenWidth = window.screen.width;
