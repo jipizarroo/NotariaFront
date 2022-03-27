@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NotariaFront/static/css/main.5578c985.css",
+    "main.js": "/NotariaFront/static/js/main.3b47cbe0.js",
+    "static/js/787.5be10e4b.chunk.js": "/NotariaFront/static/js/787.5be10e4b.chunk.js",
+    "index.html": "/NotariaFront/index.html",
+    "main.5578c985.css.map": "/NotariaFront/static/css/main.5578c985.css.map",
+    "main.3b47cbe0.js.map": "/NotariaFront/static/js/main.3b47cbe0.js.map",
+    "787.5be10e4b.chunk.js.map": "/NotariaFront/static/js/787.5be10e4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5578c985.css",
+    "static/js/main.3b47cbe0.js"
+  ]
+}
