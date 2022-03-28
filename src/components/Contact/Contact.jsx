@@ -18,6 +18,16 @@ export const Contact = () => {
           display: "flex",
           justifyContent: "center",
           alignItems: "center",
+          margin: "5px 0",
+        }}
+      >
+        <Typography variant="subtitle2">Última actualizacion del sitio: 28/03/2022</Typography>
+      </Box>
+      <Box
+        sx={{
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
           margin: "10px 0",
         }}
       >
@@ -41,7 +51,7 @@ export const Contact = () => {
           Direccion:{" "}
         </Typography>
         <Typography variant="h6">
-          Av. Santa Rosa, Comuna de San Ramon
+          Av. Santa Rosa 7955, Comuna de San Ramon - Paradero: 21 1/2
         </Typography>
       </Box>
     </Paper>
