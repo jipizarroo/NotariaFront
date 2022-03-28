@@ -1,7 +1,7 @@
 {
   "name": "notaria-san-ramon",
   "version": "1.0.1",
-  "homepage": "https://jipizarroo.github.io/NotariaFront",
+  "homepage": "https://notariasanramon.cl",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.8.1",
