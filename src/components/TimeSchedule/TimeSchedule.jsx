@@ -58,31 +58,31 @@ export const TimeSchedule = () => {
             <StyledTableCell component="th" scope="row">
               Lunes
             </StyledTableCell>
-            <StyledTableCell align="center">9 a 17:30</StyledTableCell>
+            <StyledTableCell align="center">9:00 a 17:30</StyledTableCell>
           </StyledTableRow>
           <StyledTableRow>
             <StyledTableCell component="th" scope="row">
               Martes
             </StyledTableCell>
-            <StyledTableCell align="center">9 a 17:30</StyledTableCell>
+            <StyledTableCell align="center">9:00 a 17:30</StyledTableCell>
           </StyledTableRow>
           <StyledTableRow>
             <StyledTableCell component="th" scope="row">
               Miércoles
             </StyledTableCell>
-            <StyledTableCell align="center">9 a 17:30</StyledTableCell>
+            <StyledTableCell align="center">9:00 a 17:30</StyledTableCell>
           </StyledTableRow>
           <StyledTableRow>
             <StyledTableCell component="th" scope="row">
               Jueves
             </StyledTableCell>
-            <StyledTableCell align="center">9 a 17:30</StyledTableCell>
+            <StyledTableCell align="center">9:00 a 17:30</StyledTableCell>
           </StyledTableRow>
           <StyledTableRow>
             <StyledTableCell component="th" scope="row">
               Viernes
             </StyledTableCell>
-            <StyledTableCell align="center">9 a 17:30</StyledTableCell>
+            <StyledTableCell align="center">9:00 a 17:30</StyledTableCell>
           </StyledTableRow>
           <StyledTableRow>
             <StyledTableCell component="th" scope="row">
