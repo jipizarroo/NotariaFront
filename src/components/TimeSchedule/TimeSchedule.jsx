@@ -88,7 +88,8 @@ export const TimeSchedule = () => {
             <StyledTableCell component="th" scope="row">
               Sabado
             </StyledTableCell>
-            <StyledTableCell align="center">10:00 a 13:15</StyledTableCell>
+            {/* <StyledTableCell align="center">10:00 a 13:15</StyledTableCell> */}
+            <StyledTableCell align="center">Cerrado</StyledTableCell>
           </StyledTableRow>
           <StyledTableRow>
             <StyledTableCell component="th" scope="row">

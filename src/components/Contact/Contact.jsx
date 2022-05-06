@@ -21,7 +21,7 @@ export const Contact = () => {
           margin: "5px 0",
         }}
       >
-        <Typography variant="subtitle2">Última actualizacion del sitio: 28/03/2022</Typography>
+        <Typography variant="subtitle2">Última actualizacion del sitio: 06/04/2022</Typography>
       </Box>
       <Box
         sx={{
